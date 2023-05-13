@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **jjsprandel/jjsprandel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Jonah Sprandel
+- University of Central Florida BSEE 2025
+
+### Email:
+jonahsprandel@gmail.com
+
+### Phone:
+(630) 863-9568
+
+### Linkedin:
+https://www.linkedin.com/in/jonah-sprandel/
