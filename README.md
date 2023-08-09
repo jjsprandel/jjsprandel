@@ -19,8 +19,5 @@ Here are some ideas to get you started:
 ### Email:
 jonahsprandel@gmail.com
 
-### Phone:
-(630) 863-9568
-
 ### Linkedin:
 https://www.linkedin.com/in/jonah-sprandel/
